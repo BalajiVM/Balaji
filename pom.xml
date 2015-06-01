@@ -27,9 +27,9 @@ THE SOFTWARE.
   
   <distributionManagement>
         <repository>
-            <id>test</id>
-            <name>Internal Releases</name>
-            <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/test</url>
+            <id>firstapp</id>
+            <name>Balaji_Maven</name>
+            <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
         </repository> 
     </distributionManagement>
   </project>
