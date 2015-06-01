@@ -22,7 +22,7 @@ THE SOFTWARE.
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tesco.org</groupId>
   <artifactId>helloWorld</artifactId>
-  <version>Version5.0</version>
+  <version>${mvnversion}</version>
   <packaging>jar</packaging>
   
   <distributionManagement>
