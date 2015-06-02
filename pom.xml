@@ -38,5 +38,5 @@ THE SOFTWARE.
               <type>jar</type> 
             </dependency>
         </dependencies>
-
+  </distributionManagement>
   </project>
