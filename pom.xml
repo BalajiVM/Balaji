@@ -22,7 +22,7 @@ THE SOFTWARE.
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tesco.org</groupId>
   <artifactId>helloWorld</artifactId>
-  <version>Version-50.0</version>
+  <version>${mvnversion}</version>
   <packaging>jar</packaging>
   
   <distributionManagement>
@@ -31,7 +31,7 @@ THE SOFTWARE.
             <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
         </repository> 
   </distributionManagement>
-  <dependencies>
+ <!-- <dependencies>
             <dependency>
               <groupId>com.tesco.org</groupId>
               <artifactId>helloWorld</artifactId>
@@ -44,5 +44,5 @@ THE SOFTWARE.
             <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
         </repository> 
   </distributionManagement>
-        </dependencies>
+        </dependencies> -->
   </project>
