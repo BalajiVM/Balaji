@@ -30,13 +30,19 @@ THE SOFTWARE.
             <id>firstapp</id>
             <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
         </repository> 
-        <dependencies>
+  </distributionManagement>
+  <dependencies>
             <dependency>
               <groupId>com.tesco.org</groupId>
               <artifactId>helloWorld</artifactId>
               <version>Version-0.42</version>
               <type>jar</type> 
             </dependency>
-        </dependencies>
+            <distributionManagement>
+        <repository>
+            <id>firstapp</id>
+            <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
+        </repository> 
   </distributionManagement>
+        </dependencies>
   </project>
