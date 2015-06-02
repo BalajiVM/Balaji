@@ -35,7 +35,7 @@ THE SOFTWARE.
           <dependency>
              <groupId>com.tesco.org</groupId>
              <artifactId>helloWorld</artifactId>
-             <version>${mvnversion-1.0}</version>
+             <version>Version-0.42</version>
             <type>jar</type> 
           </dependency>
    </dependencies> 
