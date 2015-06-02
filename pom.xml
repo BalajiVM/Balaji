@@ -31,18 +31,18 @@ THE SOFTWARE.
             <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
         </repository> 
   </distributionManagement>
- <!-- <dependencies>
-            <dependency>
-              <groupId>com.tesco.org</groupId>
-              <artifactId>helloWorld</artifactId>
-              <version>Version-0.42</version>
-              <type>jar</type> 
-            </dependency>
-            <distributionManagement>
+ <dependencies>
+          <dependency>
+             <groupId>com.tesco.org</groupId>
+             <artifactId>helloWorld</artifactId>
+             <version>${mvnversion-1.0}</version>
+            <type>jar</type> 
+          </dependency>
+   </dependencies> 
+   <repositories>
         <repository>
             <id>firstapp</id>
             <url>http://vdi01t11hsc-330:8055/nexus/content/repositories/firstapp</url>
         </repository> 
-  </distributionManagement>
-        </dependencies> -->
+    </repositories>    
   </project>
