@@ -34,7 +34,7 @@ THE SOFTWARE.
             <dependency>
               <groupId>com.tesco.org</groupId>
               <artifactId>helloWorld</artifactId>
-              <version>snap1</version>
+              <version>Version-0.42</version>
               <type>jar</type> 
             </dependency>
         </dependencies>
